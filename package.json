@@ -24,6 +24,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "build-storybook": "build-storybook --no-dll --quiet",
     "test": "react-scripts test",
     "lint": "eslint src/components",
     "eject": "react-scripts eject",
